@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Health Buddy</string>
+    <string name="web_client_id">831664280415-om1p9315ri6e420d80an1ebel3g9p20g.apps.googleusercontent.com</string>
+    <string name="channel_name">HEALTH_INFO</string>
+    <string name="channel_desc">info_about_health</string>
+    <string name="channel_id">HEALTH_BUDDY</string>
+    <string name="switch_notifications">notifications</string>
+    <string name="signOut">signOut</string>
+    <string name="welcome_text">Welcome to\nHealth Buddy!\n\nSign In to stay fit always</string>
+
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_health_record">My Health Record</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_new_settings">Settings</string>
+    <string name="title_activity_medical_chatbot">Chat with Medical Bot</string>
+    <string name="title_activity_new_medical_chatbot">Automated Medical Assistance</string>
+    <string name="title_activity_profile">My Profile</string>
+
+    <string name="app_id">b961bc7f</string>
+    <string name="app_key">db50e7f67b4b2d8ce626bea1db2bd7a2</string>
+    <string name="support">support</string>
+</resources>
